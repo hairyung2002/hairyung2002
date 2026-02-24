@@ -84,6 +84,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://solved.ac/profile/hairyung2002">
-    <img src="https://mazassumnida.wtf/api/v1/badge/generate_badge?boj=hairyung2002" alt="Solved.ac Badge" height="170" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hairyung2002" alt="Solved.ac Badge" height="170" />
   </a>
 </div>
