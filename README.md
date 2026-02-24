@@ -82,3 +82,15 @@
 [![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=hairyung2002)](https://solved.ac/profile/hairyung2002/arena)
 [![Kwack Doyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hairyung2002)](https://github.com/hairyung2002/github-readme-stats)
 </div>
+
+# 📈 Stats & Algorithm
+
+<div align="center">
+  <a href="https://github.com/hairyung2002">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hairyung2002&theme=tokyonight" alt="GitHub Streak" height="170" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://solved.ac/profile/hairyung2002">
+    <img src="https://solvedac.junah.dev/v1/generate_badge?handle=hairyung2002" alt="Solved.ac Badge" height="170" />
+  </a>
+</div>
