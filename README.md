@@ -1,20 +1,14 @@
 # 🧑‍💻 Kwack Doyoun
 
----
-
 - 동국대학교 정보통신공학전공 ( 2021.03 ~ )
 - 동국대학교 경영학과 복수전공 ( 2025.03 ~ )
 
 # 📫 Contact
 
----
-
 - 📧 Email: [kdoing2002@gmail.com](mailto:kdoing2002@gmail.com)
 - 📱 Phone: 010-3025-0558
 
 # 👣 Experience
-
----
 
 - 21.08 : 학생 창업 유망팀 300 참여
 - 21.11 : 교내 아이디어 경진대회 입상
@@ -25,8 +19,6 @@
 - 26.01 ~ : 동국대학교 멋쟁이사자처럼 14기 백엔드 트랙장
 
 # 🛠 Tech Stack
-
----
 
 ## Languages
 
@@ -65,8 +57,6 @@
 
 # 🚀 Projects
 
----
-
 | 프로젝트명 | 기간 | 역할 | 기술 스택 | 상세 내용 |
 | --- | --- | --- | --- | --- |
 | **connecTeamed** | 25.12 ~ 26.02 | FE 엔지니어 | React | 쉽게 학습 가능한 협업 툴 개발 |
@@ -78,8 +68,6 @@
 
 # 👣 Experience & Activities
 
----
-
 - **26.01 ~ 현재** : 동국대학교 멋쟁이사자처럼 14기 백엔드 트랙장 🦁
 - **25.09 ~ 현재** : UMC 9th Web 파트 & 중앙운영진
 - **25.03 ~ 25.11** : 동국대학교 멋쟁이사자처럼 13기 백엔드 트랙 수료
@@ -89,8 +77,6 @@
 - **21.08** : 학생 창업 유망팀 300 참여
 
 # 📈 GitHub Stats
-
----
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hairyung2002&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
