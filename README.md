@@ -79,6 +79,6 @@
 # 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hairyung2002&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=hairyung2002&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=hairyung2002&layout=compact&theme=tokyonight)" alt="Top Languages" width="48%" />
+[![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=hairyung2002)](https://solved.ac/profile/hairyung2002/arena)
+[![Kwack Doyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hairyung2002)](https://github.com/hairyung2002/github-readme-stats)
 </div>
