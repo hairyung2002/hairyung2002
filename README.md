@@ -80,7 +80,7 @@
 
 <div align="center">
   <a href="https://github.com/hairyung2002">
-    <img src="https://github-readme-stats.herokuapp.com/?user=hairyung2002&theme=tokyonight" alt="GitHub Streak" height="170" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hairyung2002&theme=tokyonight" alt="GitHub Streak" height="170" />
   </a>
   &nbsp;&nbsp;
   <a href="https://solved.ac/profile/hairyung2002">
