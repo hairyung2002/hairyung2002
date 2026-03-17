@@ -1,22 +1,3 @@
-# 🧑‍💻 Kwack Doyoun
-
-- 동국대학교 정보통신공학전공 ( 2021.03 ~ )
-- 동국대학교 경영학과 복수전공 ( 2025.03 ~ )
-
-# 📫 Contact
-
-- 📧 Email: [kdoing2002@gmail.com](mailto:kdoing2002@gmail.com)
-- 📱 Phone: 010-3025-0558
-
-# 👣 Experience
-
-- 21.08 : 학생 창업 유망팀 300
-- 22.09~23.02 : 동국대학교 중앙봉사동아리 길 회장 역임
-- 25.03 ~ 25.08 : UMC 8th Web 파트 수료
-- 25.03 ~ 25.11 : 동국대학교 멋쟁이사자처럼 13기 백엔드 트랙 수료
-- 25.09 ~ 26.02 : UMC 9th Web 파트 & 중앙운영진 수료
-- 26.01 ~ : 동국대학교 멋쟁이사자처럼 14기 백엔드 트랙장
-
 # 🛠 Tech Stack
 
 ## Languages
@@ -54,6 +35,17 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
+<div align="center">
+  <a href="https://github.com/hairyung2002">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hairyung2002&theme=tokyonight" alt="GitHub Streak" height="170" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://solved.ac/profile/hairyung2002">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hairyung2002" alt="Solved.ac Badge" height="170" />
+  </a>
+</div>
+
+
 # 🚀 Projects
 
 | 프로젝트명 | 기간 | 역할 | 기술 스택 | 상세 내용 |
@@ -64,15 +56,3 @@
 | **WalkingCity** | 25.08 | Full-stack | SpringBoot, React | RAG, Bedrock 활용 AI 기반 산책 경로 추천 플랫폼 (**K-HTML 해커톤 우수상 🏆**) |
 | **Badang** | 25.07 ~ 25.08 | BE 엔지니어 | Django | 리뷰 기반 AI 활용 소상공인 컨설팅 플랫폼 |
 | **프롬프트 플레이스** | 25.06 ~ 진행중 | FE 엔지니어 | React | AI 프롬프트 이커머스 플랫폼 기획 및 개발 |
-
-# 📈 Stats & Algorithm
-
-<div align="center">
-  <a href="https://github.com/hairyung2002">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hairyung2002&theme=tokyonight" alt="GitHub Streak" height="170" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://solved.ac/profile/hairyung2002">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hairyung2002" alt="Solved.ac Badge" height="170" />
-  </a>
-</div>
