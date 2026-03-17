@@ -53,6 +53,6 @@
 | **connecTeamed** | 25.12 ~ 26.02 | FE 엔지니어 | React | 쉽게 학습 가능한 협업 툴 개발 |
 | **PortPolis** | 25.11 | Full-stack | Node.js, React | 개인 맞춤형 포트폴리오 작성 플랫폼 개발 |
 | **동국대 가을 축제** | 25.09 | Full-stack | Django, React | 축제 부스 설명 사이트 운영 및 **디도스 공격 실전 대응** |
-| **WalkingCity** | 25.08 | Full-stack | SpringBoot, React | RAG, Bedrock 활용 AI 기반 산책 경로 추천 플랫폼 (**K-HTML 해커톤 우수상 🏆**) |
+| **WalkingCity** | 25.08 | Full-stack | SpringBoot, React | RAG, Bedrock 활용 AI 기반 산책 경로 추천 플랫폼|
 | **Badang** | 25.07 ~ 25.08 | BE 엔지니어 | Django | 리뷰 기반 AI 활용 소상공인 컨설팅 플랫폼 |
 | **프롬프트 플레이스** | 25.06 ~ 진행중 | FE 엔지니어 | React | AI 프롬프트 이커머스 플랫폼 기획 및 개발 |
