@@ -44,11 +44,11 @@
 
 | 프로젝트 | 기간 | 역할 | 개요 |
 |:---:|:---:|:---:|:---|
-| **운명도 꿰어야 사랑이다** | 26.09 | PO · BE | 사주 궁합으로 인연을 이어주는 축제 한정 소개팅 서비스 · 누적 사용자 3500+ |
-| **Wilson** | 26.06 ~ | PM · BE · App | 치매 당사자와 보호자를 함께 돌보는 음성 AI 플랫폼 |
+| **[운명도 꿰어야 사랑이다](https://github.com/In-Dark-Developer/WKS-BE.git)** | 26.09 | PO · BE | 사주 궁합으로 인연을 이어주는 축제 한정 소개팅 서비스 · 누적 사용자 3500+ |
+| **[Wilson](https://github.com/hairyung2002/Wilson_BE_Public.git)** | 26.06 ~ | PM · BE · App | 치매 당사자와 보호자를 함께 돌보는 음성 AI 플랫폼 |
 | **Nexo** | 26.05 ~ | PO · SWE | 직접 만든 프록시 엔진으로 무중단 배포와 쉬운 라우팅 설정을 돕는 플랫폼 |
 | **🏆 동데이** | 25.10 | Lead PM | 공연장-인디밴드를 잇는 예약 시스템 및 아카이빙 플랫폼 |
-| **Dirvana** | 25.09 | BE Lead · FE | 동국대 2025 가을축제 공식 웹사이트 · 누적 사용자 8000+ |
+| **[Dirvana](https://github.com/LikeLion-at-DGU/2025_fall_festival_BE.git)** | 25.09 | BE Lead · FE | 동국대 2025 가을축제 공식 웹사이트 · 누적 사용자 8000+ |
 | **🏆 Walking City** | 25.08 | Full-stack | 취향에 맞는 산책 코스를 추천해주는 서비스 |
 | **[PromptPlace](https://www.promptplace.kr)** | 25.07 ~ | Full-stack | AI 프롬프트를 사고파는 마켓플레이스 · 운영 중 |
 
@@ -58,7 +58,7 @@
 
 | 시기 | 내용 |
 |:---:|:---|
-| 2026.08 | 🎤 **PyCon Seoul 2026** 세션 발표 — *Green CI / Red Production* |
+| 2026.08 | 🎤 **[PyCon Seoul 2026](https://2026.pycon.kr/presentations/35eb45e0-af35-4765-a1e8-9c1443887b2d#Green-CI-Red-Production--%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EA%B0%80-%ED%92%88%EC%A7%88%EC%9D%84-%EB%B3%B4%EC%9E%A5%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)** 세션 발표 — *Green CI / Red Production* |
 | 2025.11 | 🥇 교내 창업동아리 데모데이 **대상** (동데이) |
 | 2025.08 | 🏅 K-HTML 해커톤 **우수상** (Walking City) |
 
